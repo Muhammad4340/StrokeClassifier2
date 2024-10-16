@@ -1,0 +1,5 @@
+tensorflow
+keras
+numpy==1.26.4
+streamlit
+pip==23.3.1
